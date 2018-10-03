@@ -4,7 +4,7 @@
 
 En el equipo trabajamos con Abstract porque nos permite tener un control de versiones del producto y trabajar varias personas simultaneamente sobre un mismo archivo de Sketch, nuestra principal herramienta de trabajo.
 
-Con Abstract hemos conseguido eliminar copias en conflicto, duplicados y confusiones sobre cuales son los archivos finales. Y además, nos ha permitido incluir a nuestros clientes en el flujo de trajo, pudiendo estos visualizar el trabajo realizado y el estado en el que está proyecto.
+Con Abstract hemos conseguido eliminar copias en conflicto, duplicados y confusiones sobre cuales son los archivos finales. Y además, nos ha permitido incluir a nuestros clientes en el flujo de trabajo, pudiendo estos visualizar el trabajo realizado y el estado en el que está proyecto.
 
 {% hint style="info" %}
 ✏️ Para que los clientes puedan ver el proyecto deben estar invitados al proyecto y formar parte de los miembros de este.
@@ -103,7 +103,7 @@ Para nosotros, la descripción es una lista de cambios que se han realizado entr
 
 ### 2.2 Merge
 
-Cuando _mergeamos_ estamos unificando el archivo de Sketch. Al _mergear_ volvamos todos los artboards y páginas en los que hemos estado trabajando y hemos realizado cambios al archivo que se encuentra en la _rama padre_ desde la que hicimos la rama. Nosotros hacemos _merge_ cuando se completa el objetivo para el cual fue creada la rama en la que estábamos trabajando. Como por ejemplo, tras completar una funcionalidad.
+Cuando _mergeamos_ estamos unificando el archivo de Sketch. Al _mergear_ volcamos todos los artboards y páginas en los que hemos estado trabajando y hemos realizado cambios al archivo que se encuentra en la _rama padre_ desde la que hicimos la rama. Nosotros hacemos _merge_ cuando se completa el objetivo para el cual fue creada la rama en la que estábamos trabajando. Como por ejemplo, tras completar una funcionalidad.
 
 Cuando _mergeamos_ una rama, Abstract nos da la opción de incluir detalles. Esto es importante cuando hay comunicar información al equipo sobre los cambios realizados en la rama, y queremos que esta quede reflejada.
 
@@ -119,7 +119,7 @@ Cada proyecto en el que trabajamos en el estudio, forma parte de un proyecto dis
 
 Los proyectos en Abstract tienen un nombre, una descripción y un color asignado.
 
-* Para el nombre, mantenemos el nombre del proyecto tenemos en Dropbox. De esta forma, conseguimos mantener consistencia en las distintas herramientas con las que trabajamos.
+* Para el nombre, mantenemos el nombre del proyecto que tenemos en Dropbox. De esta forma, conseguimos mantener consistencia en las distintas herramientas con las que trabajamos.
 * La descripción es interesante y recomendable que refleje la descripción del proyecto y sus objetivos a alcanzar.
 * El color sirve como identificador visual del proyecto, por lo que es bueno que este sea el color principal de este.
 
