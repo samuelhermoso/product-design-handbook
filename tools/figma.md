@@ -1,6 +1,6 @@
 # Figma
 
-Figma nos permite trabajar de forma colaborativa, online y en tiempo real. Además, Figma nos permite realizar todo el proceso que realizamos en Sketch. Figma es una gran alternativa para realizar ejercicios de ideación y definición cuando el equipo no puede estar de forma presencial.
+Figma nos permite trabajar de forma colaborativa, online y en tiempo real. Además, Figma nos permite realizar todo el proceso que realizamos en Sketch.
 
 {% hint style="info" %}
 El porqué utilizamos más Sketch que Figma es porque con Sketch nuestro proceso está mucho más automatizado gracias a los plugins y más controlado gracias a Abstract.
